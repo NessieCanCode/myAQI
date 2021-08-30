@@ -13,11 +13,14 @@ Then Display Sticky Notification <--lametric
 
 https://ngsbnp3zmg.execute-api.us-west-2.amazonaws.com/live/ifttt/myaqi/current/?users_zip=92131 <--- change the zip code
 
-value1 is Ozone 
+value1 is Ozone
+
 value2 is PM2.5
 
 These are not cached values and should be hourly observered values.
 
 Date and Time Trigger
+
 with Make a web request <-- Webhook
+
 Then Display Sticky Notification <--lametric
