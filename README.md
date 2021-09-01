@@ -5,6 +5,6 @@ Python 3.9 and Requests Package
 
 Usage Format: main.py zip_code api_key
 
-## Personal project turned IFTTT Webhook.
+## Personal project turned AWS Lambda / API Gateway.
 
 Change branch to aws-lambda for current branch and usage.
