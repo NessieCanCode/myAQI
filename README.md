@@ -8,3 +8,6 @@ Usage Format: main.py zip_code api_key
 ## Personal project turned AWS Lambda / API Gateway.
 
 Change branch to aws-lambda for current branch and usage.
+
+First App to use API
+https://apps.lametric.com/apps/myaqi/12362
